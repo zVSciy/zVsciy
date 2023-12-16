@@ -71,7 +71,7 @@
 <br/>  
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zVSciy/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/zVSciy/count.svg?&&style=flat-square" align="center"  />
 </div>
 
 <br />
