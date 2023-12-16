@@ -71,8 +71,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zVSciy&&style=flat-square" align="center" />
-</div>  
+  <img src="https://profile-counter.glitch.me/zVSciy/count.svg?"  />
+</div>
 
 <br />
 
