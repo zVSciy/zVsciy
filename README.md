@@ -69,11 +69,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zVSciy&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/zVSciy/count.svg?&&style=flat-square" align="center"  />
-</div>
-
+</div>   
 <br />
 
 ----
