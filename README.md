@@ -1,19 +1,4 @@
 
-
-### About me:  
-### <div align="center"></div>  
-  
-
-- ✨ Creating bugs since 2020  
-  
-
-- 📚 I'm currently learning python  
-  
-
-- 🎯 Goals: ...  
-  
-
-<br/>  
 <div align="center">  
 
 ## My Skill Set  
