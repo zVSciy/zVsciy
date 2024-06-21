@@ -76,9 +76,21 @@
 </div>
 </table>
 </div>
+<div align="center">
+
+<h2>🐍 My Contributions 🐍</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zVSciy/zVSciy/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zVSciy/zVSciy/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+</div>
 <div align="center">  
-  
+    
 ## Github Stats 
+
 </div>
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=zVSciy&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="right" height="195px" /></div>  
