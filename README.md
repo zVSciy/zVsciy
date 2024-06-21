@@ -14,8 +14,11 @@
   
 
 <br/>  
+<div align="center">  
 
 ## My Skill Set  
+</div>
+
 <div align="center">  
 <table><tr><td valign="top" width="33%">
 
@@ -69,11 +72,14 @@
 </div>
 </table>
 </div>
+<div align="center">  
+  
+## Github Stats 
+</div>
 
-## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=zVSciy&show_icons=true&theme=transparent&count_private=true&hide_border=true" align="right" height="195px" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zVSciy&theme=transparent&hide_border=true&layout=compact" align="left" width="400px" height="195px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zVSciy&theme=transparent&hide_border=true&layout=compact" align="left" width="350px" height="195px"/>  
 <br>
 <br>
 <br>
