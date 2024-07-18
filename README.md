@@ -9,15 +9,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, AWS**
-
-
- </div>
-
 <div align="center">  
 
 ## My Skill Set  
